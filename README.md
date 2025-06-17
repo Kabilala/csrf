@@ -62,11 +62,6 @@ YouTube tutorials (LiveOverflow, STÖK), OWASP CSRF cheat sheet, PortSwigger blo
 - ✅ Lab 04: CSRF with broken Referer validation
 - ✅ Lab 05: CSRF with token in Referer header
 
-🔹 **(Optional Advanced Labs - Coming Soon)**
-- ⏳ Custom JavaScript token validation
-- ⏳ SameSite bypass and cookie manipulation
-- ⏳ Using CORS misconfigurations with CSRF
-
 ---
 
 ## 🛠️ Automation & Future Plans (Coming Soon)
@@ -84,7 +79,6 @@ I'm planning to:
 Each lab includes:
 
 - ✔️ Exploitation steps (markdown)
-- ✔️ HTML PoC exploit page (`csrf.html`)
 - ✔️ Screenshots from Burp and browser
 - ✔️ Security impact summary
 - ✔️ Fix & prevention recommendations
